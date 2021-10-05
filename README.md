@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm a career switcher and I couldn't be happier I finally took the leap. Formerly an administrative assistant, I decided to get into coding after seeing several friends of mine with similar backgrounds successfully making the transition. I enrolled in Harvard's CS50 course, completed a few certifications from FreeCodeCamp, and built two dozen projects through The Odin Project's curriculum. And after 15 months of hard work and self-discipline, I am proud to call myself a self-taught web developer.
+
+I already have a solid command of front-end technologies (I particularly love working with React), and I'm now looking into learning more of the back-end stuff so I can create full-stack apps.
+
+👉 Check out my [website](https://romainyvernes.herokuapp.com/) if you want to see some of the projects I've worked on so far.
+
+And feel free to wander around my GitHub to keep up with my latest work!
+
 <!--
 **romainyvernes/romainyvernes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
