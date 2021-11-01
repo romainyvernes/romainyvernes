@@ -6,7 +6,7 @@ I already have a solid command of front-end technologies (I particularly love wo
 
 👉  Check out my [website](https://romainyvernes.dev/) if you want to see some of the projects I've worked on so far.
 
-🔭  I’m currently working on a full-stack application that will recreate some features of Facebook. Stay tuned...
+🔭  I’m currently working on a MERN application that will recreate some features of Facebook. Stay tuned...
 
 And feel free to wander around my GitHub to keep up with my latest work.
 
