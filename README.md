@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I'm a career switcher and I couldn't be happier I finally took the leap. Formerly an administrative assistant, I decided to get into coding after seeing several acquaintances of mine with similar backgrounds successfully making the transition. I enrolled in Harvard's CS50 course, completed a few certifications from FreeCodeCamp, and built two dozen projects through The Odin Project's curriculum. And after 15 months of hard work and self-discipline, I am proud to call myself a self-taught web developer.
+I'm a career switcher and I couldn't be happier I finally took the leap. Formerly an administrative assistant, I decided to get into coding after seeing several acquaintances of mine with similar backgrounds successfully making the transition. I enrolled in Harvard's CS50 course, completed a few certifications from FreeCodeCamp, and built two dozen projects through The Odin Project's curriculum. And after nearly 2 years of hard work and self-discipline, I am proud to call myself a self-taught web developer.
 
-I already have a solid command of front-end technologies (I particularly love working with React), and I'm now looking into honing my skills on the back-end side (I've already created a couple of back-end projects, so I'm getting there!).
+In terms of the technologies I like to use, MERN (MongoDB, Express, React, Node.JS) has been my go-to stack because of how seamless it feels to switch between front-end and back-end.
 
 👉  Check out my [website](https://romainyvernes.dev/) if you want to see some of the projects I've worked on so far.
 
-🔭  I’m currently working on a MERN application that will recreate some features of Facebook. Stay tuned...
+🔭  Take a look at my [latest project](https://odinbook-social.herokuapp.com/), a Facebook-inspired MERN application.
 
 And feel free to wander around my GitHub to keep up with my latest work.
 
