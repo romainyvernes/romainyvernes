@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a career switcher and I couldn't be happier I finally took the leap. Formerly an administrative assistant, I decided to get into coding after seeing several acquaintances of mine with a similar background to mine successfully making the transition. I enrolled in Harvard's CS50 course, completed a few certifications from FreeCodeCamp, and built two dozen projects through The Odin Project's curriculum. And after nearly 2 years of hard work and self-discipline, I am proud to call myself a software engineer.
+I'm a career switcher and I couldn't be happier I finally took the leap. Formerly an administrative assistant, I decided to get into coding after seeing several acquaintances of mine with a similar background to mine successfully making the transition. I enrolled in Harvard's CS50 course, completed a few certifications from FreeCodeCamp, and built two dozen projects through The Odin Project's curriculum. And after nearly 2 years of hard work and dedication, I am proud to call myself a software engineer.
 
 In terms of the technologies I like to use, MERN (MongoDB, Express, React, Node.JS) has been my go-to stack because of how seamless it feels to switch between front-end and back-end.
 
