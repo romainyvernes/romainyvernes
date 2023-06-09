@@ -2,13 +2,13 @@
 
 I'm a software engineer with roughly 3 years of experience. Formerly an administrative assistant, I switched careers during the pandemic. I found free online resources to learn coding on my own (Harvard's CS50 course, FreeCodeCamp, and The Odin Project), and spent the next year and a half putting together projects of various sizes to showcase my skills. I quickly landed a position at Brightcove, a leading streaming video platform, where I could prove my worth and grow as an engineer. As a member of the Professional Services consulting team, I worked on projects of all sizes, ranging from minor customizations on standardized company products to full-scale SPAs.
 
-In terms of the technologies I like to use, MERN (MongoDB, Express, React, Node.JS) has been my go-to stack because of how seamless it feels to switch between front-end and back-end.
+In terms of the technologies I like to use, any stack ending in "ERN" (as in Express, React, Node) is what I've been going for because of how seamless it is to switch between frontend and backend.
 
-👉  Check out my [website](https://romainyvernes.dev/) if you want to see some of the projects I've worked on so far.
+👉 Check out my [website](https://romainyvernes.dev/) if you want to see some of the projects I've worked on so far.
 
-🔭  Take a look at my [latest project](https://odinbook-social.herokuapp.com/), a Facebook-inspired MERN application.
+✅ Take a look at my [latest completed project](https://wispy-night-906.fly.dev/), a Facebook-inspired MERN application.
 
-And feel free to wander around my GitHub to keep up with my latest work.
+🔭 I'm now working on a PERN app that incorporates Redis and Docker, and aims at facilitating communication among filmmakers during the production process 🎥 
 
 <!--
 **romainyvernes/romainyvernes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
