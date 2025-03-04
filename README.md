@@ -1,8 +1,6 @@
-### Hi there 👋
+### Welcome to my page 👋
 
-I'm a software engineer with roughly 3 years of experience. Formerly an administrative assistant, I switched careers during the pandemic. I found free online resources to learn coding on my own (Harvard's CS50 course, FreeCodeCamp, and The Odin Project), and spent the next year and a half putting together projects of various sizes to showcase my skills. I quickly landed a position at Brightcove, a leading streaming video platform, where I could prove my worth and grow as an engineer. As a member of the Professional Services consulting team, I worked on projects of all sizes, ranging from minor customizations on standardized company products to full-scale SPAs.
-
-In terms of the technologies I like to use, any stack ending in "ERN" (as in Express, React, Node) is what I've been going for because of how seamless it is to switch between frontend and backend.
+I'm a software engineer specialized in web development. The projects you will see here reflect the variety of pages you may encounter on the web, such as utilities, games, e-commerce sites, or social media platforms. They are meant to showcase my ability to create and maintain smooth, well-responsive pages with their own state management system on the frontend; and to design and build APIs on the backend, while blending the two for a seamless user experience.
 
 👉 Check out my [website](https://romainyvernes.dev/) if you want to see some of the projects I've worked on so far.
 
